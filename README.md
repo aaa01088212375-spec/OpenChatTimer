@@ -1,0 +1,2 @@
+# OpenChatTimer
+Android timer app
